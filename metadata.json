@@ -1,0 +1,6 @@
+{
+  "name": "Campus Vote",
+  "description": "Live college audience voting and response platform for classrooms, seminars, college fests, and live events.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
